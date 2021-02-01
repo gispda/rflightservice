@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "flight-service",
+    "flight-contract",
+    "flight-dao",
+    "flight-migrations"
+]

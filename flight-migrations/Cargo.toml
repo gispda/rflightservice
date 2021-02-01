@@ -1,0 +1,9 @@
+[package]
+name = "flight-migrations"
+version = "1.0.0"
+authors = ["Diego.Pacheco"]
+edition = "2018"
+
+[dependencies]
+barrel = { version="0.6.5", features = ["pg"] }
+postgres = "0.19.0"
